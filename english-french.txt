@@ -1,0 +1,3 @@
+dog: chien
+cat: chat
+tree: arbre
