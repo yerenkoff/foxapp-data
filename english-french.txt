@@ -1,3 +1,3757 @@
-dog: chien
-cat: chat
+shocking: choquant
+suffering: souffrir
+reasonable: raisonnable
+behavior: comportement
+go: aillent
+unfair: injuste
+get: déprimer
+depends: dépendre
+athletic: actif
+social: social
+divorce: divorce
+to review: relire
+am searching for: recherche
+lab: labo
+play: enverraient
+would sit: assiéraient
+tough: sévère
+even: égal
+increase: progrès
+math: maths
+rough draft: brouillon
+mail: enverrait
+would sit: assiérait
+player: lecteur
+volume: volume
+positions: rang
+(to) underline: souligner
+mainly: principalement
+period: période
+is causing: cause
+section: rubrique
+(to) mention: mentionner
+third: tiers
+case: cas
+most: plupart
+poverty: pauvreté
+official: officiel
+exchanges: échange
+development: développement
+to cause: causer
+economical: économique
+politician: homme politique
+people: peuple
+dodge: système
+total: total
+minister: ministre
+crime: crime
+(to) decrease: diminuer
+grew: augmenter
+extremely: extrêmement
+good deal: bonne affaire
+work: fonctionner
+to convince: convaincre
+quality: qualité
+powder: poudre
+crossed: brouillé
+cocoa: cacao
+to fry: frire
+amount: quantité
+frozen: surgelé
+typical: typique
+ratatouille: ratatouille
+bake: cuire
+half: à moitié
+competition: concours
+macaron: macaron
+melt: fondre
+oyster: huître
+deeply: profondément
+wish: vœu
+admit: admettre
+realize: réaliser
+promises: promettre
+mean: signifier
+voicemail: répondeur
+zip code: code postal
+technology: technologie
+idea: pensée
+how much time: combien de temps
+gas station: station-service
+means of transport: moyen de transport
+diesel: gazole
+bench: banc
+embassy: ambassade
+go away: va-t'en
+go away: allez-vous-en
+new: récent
+drop off: déposer
+pigeon: pigeon
+builder: maçon
+to destroy: détruire
+Rather than: plutôt que
+build: construire
+normally: normalement
+is worth: vaut
+(they) apply/are applying: valent
+run: fabriquer
+printed: publier
+importance: importance
+retirement: retraite
+make: inventer
+union: syndicat
+relaxed: détendu
+calmly: calmement
+messy: désordonné
+as soon as possible: le plus tôt possible
+need: besoin que
+in particular: en particulier
+somewhere else: ailleurs
+citizen: citoyen
+marry: épouser
+province: province
+suburbs: banlieue
+happiness: bonheur
+It would be good if: ce serait bien si
+windshield: pare-brise
+aisle: rayon
+giant: géant
+beauty salon: salon de beauté
+catch: surprendre
+shine: briller
+barbershop: barbier
+common: en commun
+informal: familier
+cloche: cloche
+canal: canal
+religion: religion
+christian: chrétien
+Buddhist: bouddhiste
+atheist: athée
+Muslim: musulman
+hindu: hindou
+Jewish man: juif
+brain: cerveau
+clinic: clinique
+is: soient
+urgently: en urgence
+pregnant: enceinte
+necessary: nécessaire
+operation: opération
+is: soit
+do not think that: pense pas que
+cold: enrhumé
+innocent: innocent
+places: juger
+guilty: coupable
+courthouse: tribunal
+grateful: reconnaissant
+police station: commissariat
+pickpocket: pickpocket
+prison: prison
+criminal: criminel
+burglar: cambrioleur
+detective: détective
+vehicle: véhicule
+check: frein
+burglarize: cambrioler
+middle-aged: d'âge moyen
+began: attaquer
+worrisome: inquiétant
+tablet: tablette
+app: appli
+to communicate: communiquer
+as: puisque
+take: arracher
+headlines: gros titre
+laundry: linge
+fold: plier
+basket: panier
+to iron: repasser
+a mess: en désordre
+frame: cadre
+wire: fil
+dressed: décorer
+wedding anniversary: anniversaire de mariage
+surprise: étonner
+internationally: mondialement
+cyclist: cycliste
+picture: description
+careful: prudent
+indeed: effectivement
+stuck: coincé
+border: frontière
+distance: distance
+tunnel: tunnel
+Would it bother you: cela vous dérangerait-il
+faces: risquer
+cabin: cabine
+terribly: terriblement
+visa: visa
+sleeping bag: sac de couchage
+dangerously: dangereusement
+window: guichet
+rail: rail
+deceive: tromper
+rang: entourer
+stone: pierre
+bathe: baigner
+donkey: âne
+hunting: chasser
+peaceful: paisible
+bat: chauve-souris
+rare: rare
+mow: tondre
+last: suffire
+regularly: régulièrement
+to water: arroser
+digging: creuser
+outdoor: de plein air
+relax: détendre
+gardening: jardinage
+planting: planter
+secondary education: enseignement secondaire
+testing: évaluer
+technique: technique
+experience: connaissance
+encourage: encourager
+alphabet: alphabet
+teaching: enseignement
+out loud: à voix haute
+teacher: enseignant
+certificate: attestation
+registration: inscription
+correct: corriger
+failure: échec
+preparation: préparation
+exact: exact
+method: méthode
+differently: différemment
+chapter: chapitre
+fascinating: passionnant
+adventure: d'aventure
+lyrics: paroles
+admire: admirer
+generation: génération
+comic book: bande dessinée
+science-fiction: science-fiction
+food processor: robot
+human being: humain
+man: être humain
+headline: titre
+creature: créature
+realistic: réaliste
+effect: effet
+love: d'amour
+by hand: à la main
+character: personnage
+animation: animation
+cruel: cruel
+thunderstorm: orage
+thunder: tonnerre
+thunderbolt: foudre
+branch: branche
+would turn off: éteindraient
+would throw away: jetteraient
+loads: tas
+chest: coffre
+alarm: alarme
+lock: serrure
+would throw away: jetterait
+would turn off: éteindrait
+made: prise
+lightbulb: ampoule
+tool: outil
+radiator: radiateur
+among: parmi
+waste of time: perte de temps
+heroes: héros
+quit: démissionner
+knew: sauraient
+could: pourraient
+would do: feraient
+organization: association
+hardly: à peine
+ourselves: nous-mêmes
+yourself: vous-même
+competitor: concurrent
+particularly: particulièrement
+would do: ferait
+would know: saurait
+yourself: toi-même
+myself: moi-même
+separate: indépendant
+expert: expert
+wing: aile
+cricket: cigale
+camel: chameau
+landscape: paysage
+summit: sommet
+were: seraient
+travel: iraient
+would have: auraient
+beach resort: station balnéaire
+humid: humide
+harbour (UK): port
+allegedly: aurait
+would be: serait
+would go: irait
+sunny: ensoleillé
+imagining: imaginer
+imagination: imagination
+those of which: celles dont
+casual: décontracté
+model: mannequin
+athletic: de sport
+the ones that: ceux dont
+valuable: de valeur
+ceremony: cérémonie
+the one of which: celle dont
+to sew: coudre
+damage: abîmer
+hairstyle: coiffure
+outfit: tenue
+whose: celui dont
+pattern: motif
+colorful: coloré
+plain: uni
+rented: déchirer
+all that: tout ce dont
+what: ce dont
+design: modèle
+similar: similaire
+amount: montant
+chance: occasion
+apologies: excuses
+respect: respect
+contains: comporter
+excuse: excuser
+neighborhood: voisinage
+babysitting: baby-sitting
+honestly: honnêtement
+Arabic: arabe
+next door: d'à côté
+disabled: handicapé
+adapted: adapté
+wheelchair: fauteuil roulant
+to run: filer
+eager: hâte
+be on familiar terms: tutoyer
+nightlife: vie nocturne
+spouse: époux
+British: britannique
+to use vous with: vouvoyer
+thrilled: ravi
+back: fond
+self-service: en libre-service
+safety: sécurité
+tobacco store: bureau de tabac
+user manual: mode d'emploi
+heating: chauffage
+millimeter: millimètre
+length: longueur
+width: largeur
+centimeter: centimètre
+downs: bas
+measure: mesurer
+tiny: minuscule
+property: propriété
+guided tour: visite guidée
+informed: guider
+announcing: annoncer
+railroad track: voie ferrée
+for sale: en vente
+transports: transport
+length (time): durée
+return trip: retour
+doubts: douter
+board: embarquer
+place: local
+check out of: libérer
+search for: rechercher
+one-way ticket: aller simple
+round-trip ticket: aller-retour
+managing: gérer
+magic: magique
+ensure: veille
+appear: apparaître
+paid: payant
+huge: immense
+belong: appartenir
+and what's more: et en plus
+to go to bed: se coucher
+laid: tenir
+get up: se lever
+would say: dirait
+pants: souffler
+candle: bougie
+last: en dernier
+first: en premier
+goalkeeper: gardien de but
+excuse: excuse
+place: situer
+scared: effrayer
+silence: silence
+tent: tente
+to boil: bouillir
+yeah: ouais
+deliver: livrer
+promise: promesse
+besides: d'ailleurs
+stick: bâton
+parent: parent
+flute: flûte
+thriller: à suspense
+entertainment: divertissement
+studio: studio
+horror: horreur
+buying: achat
+balcony: balcon
+guessing: deviner
+unemployed: au chômage
+disadvantage: inconvénient
+architecture: architecture
+industry: industrie
+day off: jour de congé
+advantage: avantage
+salary: salaire
+apply: postuler
+contract: contrat
+perhaps: peut-être que
+your: votre place
+part time: à temps partiel
+full time: à temps plein
+chemist: chimiste
+anything: n'importe quoi
+weather: météo
+ant: fourmi
+forecast: prévision
+anytime: n'importe quand
+shark: requin
+dive: plonger
+dolphin: dauphin
+avoid: éviter
+mud: boue
+rather: plutôt
+mosquito: moustique
+narrow: étroit
+my spot: ma place
+cave: grotte
+personally: personnellement
+to drive: rouler
+your: ta place
+lively: vivant
+prevent: empêcher
+immigration: immigration
+lead: diriger
+(to) exist: exister
+haircut: coupe de cheveux
+election: élection
+vote: vote
+president: président
+percent: pour cent
+unemployment: chômage
+(to) allow: permettre
+going: actuel
+society: société
+gay: homosexuel
+commune: communauté
+number: nombre
+political: politique
+government: gouvernement
+population: population
+law: loi
+support: soutien
+voice: voix
+flash drive: clé usb
+enroll: inscrire
+elementary: primaire
+gave: distribuer
+only: pas que
+biography: biographie
+essay: dissertation
+indeed: en effet
+used: d'occasion
+translate: traduisent
+translate: traduire
+allowed: le droit
+temperature: température
+(he/she/it) takes aim with: épaule
+spent: épuiser
+wishes: souhaits
+air: air
+breathe: respirer
+allergy: allergie
+pure: pur
+sneeze: éternuer
+opinion: avis
+after: après qu'
+weight: poids
+medical: médical
+(to) weigh oneself: peser
+after: après que
+thumb: pouce
+ankle: cheville
+heel: talon
+please: merci de
+pharmacist: pharmacien
+cough: tousser
+prescription: ordonnance
+according to: selon
+judge: juge
+translation: traduction
+application: candidature
+option: option
+efficient: efficace
+report: rapport
+conclusion: conclusion
+signature: signature
+meeting: entretien
+presentation: présentation
+Working: de travail
+not bad: pas mal
+scary: effrayant
+owner: propriétaire
+van: camionnette
+mail carrier: facteur
+decision: décision
+discussion: discussion
+whereas: alors que
+worry: ennuyer
+clearer: ramasser
+button: bouton
+label: étiquette
+touch: poil
+well-behaved: sage
+slipper: pantoufle
+admit: reconnaître
+puppy: chiot
+can see: apercevoir
+bite: mordre
+babysitter: baby-sitter
+identical: pareil
+prince: prince
+personality: personnalité
+rude: impoli
+embarrassing: gênant
+odd: curieux
+situation: situation
+After having written: après vous
+after: après nous
+charming: charmant
+twin: jumeau
+after: après t'
+after: après m'
+kindly: gentiment
+(to) kiss: embrasser
+After him: après lui
+after having: après leur
+sensitive: sensible
+mailbox: boîte aux lettres
+nickname: surnom
+invention: invention
+nonstop: sans arrêt
+polite: poli
+to joke around: plaisanter
+trunk: tronc
+monster: monstre
+ghost: fantôme
+classical dance: danse classique
+youth: jeunesse
+shopping cart: chariot
+never again: plus jamais
+childhood: enfance
+tanner: bronzé
+ID papers: papiers
+rate: tarif
+boarding pass: carte d'embarquement
+palace: palais
+vacation home: maison de vacances
+housing: logement
+stroll: tour
+enthusiastically: avec enthousiasme
+historic: historique
+night train: train de nuit
+extraordinary: extraordinaire
+journey: trajet
+luxury: luxe
+explore: explorer
+cruise: croisière
+parrot: perroquet
+expedition: expédition
+at any rate: de toute façon
+doubt: doute
+hesitate: hésiter
+aware: au courant
+the day after tomorrow: après-demain
+by the way: au fait
+anyway: quand même
+on hold: en attente
+can't: peux plus
+please: veuillez
+call: appel
+wait: patienter
+at the moment: pour le moment
+touch: touche
+writing: composer
+press: appuyer
+hello: allô
+hanging up: raccrocher
+pick up: décrocher
+written: noter
+goal: objectif
+education: éducation
+economics: économie
+counting: compter
+pronunciation: prononciation
+writing: écriture
+bachelor's degree: licence
+effort: effort
+concentrate: concentrer
+study: réviser
+to get: obtenir
+to support: soutenir
+scientist: scientifique
+laboratory: laboratoire
+outdoors: en plein air
+bones: arête
+butcher shop: boucherie
+dropped: goutte
+pour: verser
+stir: remuer
+coconut: noix de coco
+waste: gaspiller
+food: aliment
+thick: épais
+walnut: noix
+that ... of: dont
+organic: biologique
+to clear: débarrasser
+frying pan: poêle
+pot: casserole
+diver: plongeur
+whale: baleine
+scuba diving: plongée
+watched: observer
+squash: squash
+final: finale
+jogging: footing
+boxing: boxe
+owl: hibou
+owls: hiboux
+skiing: ski
+trail: piste
+beanie: bonnet
+waterfall: cascade
+sink: couler
+swimming: natation
+sail: voile
+sailing: naviguant
+windsurfing: planche à voile
+swimming: flotter
+exercises: de l'exercice
+gym: gymnase
+gymnastics: gymnastique
+elbow: coude
+record: record
+applaud: applaudir
+act: acte
+work: œuvre
+main: principal
+director: réalisateur
+portrait: portrait
+sculpture: sculpture
+sculptor: sculpteur
+by whom: par qui
+decoration: décoration
+lit up: éclairé
+traditional: traditionnel
+light up: éclairer
+series: feuilleton
+ruin: gâcher
+tradition: tradition
+recommend: recommander
+designer: créateur
+collection: collection
+annual: annuel
+by chance: par hasard
+shadow: ombre
+approach: approcher
+mystery: mystère
+drug: drogue
+somewhere: quelque part
+after having: après s'être
+with a key: à clé
+after: après être
+cage: cage
+escape: échapper
+glance: coup d'œil
+saving: sauver
+catastrophe: catastrophe
+silent: silencieux
+after: après avoir
+vanish: disparaître
+about to: sur le point de
+fire: incendie
+smoke: fumée
+underneath: en dessous
+touch: toucher
+coffee maker: cafetière
+dining room: salle à manger
+mess: désordre
+there is going to be: il va y avoir
+obviously: évidemment
+nightstand: table de chevet
+dishwasher: lave-vaisselle
+broom: le balai
+vacuuming: l'aspirateur
+bathtub: baignoire
+vase: vase
+ladder: échelle
+the dishes: la vaisselle
+remove: enlever
+purpose: objet
+dishes: vaisselle
+broom: balai
+vacuum: aspirateur
+specialist: spécialiste
+obligatory: obligatoire
+reporter: reporter
+extra: supplémentaire
+later: tout à l'heure
+laid: fixer
+opportunity: opportunité
+talkative: bavard
+crossed: contrarier
+surprising: surprenant
+refund: rembourser
+assistant: assistant
+proposing: proposer
+copy: copie
+computer science: informatique
+lines: sélectionner
+file: fichier
+on pause: sur pause
+attachment: pièce jointe
+download: téléchargement
+electronic: électronique
+update: à jour
+entertain: amuser
+blogger: blogueur
+install: installer
+plug in: brancher
+software: logiciel
+unplug: débrancher
+written: supprimer
+network: réseau social
+log out: déconnecter
+essential: indispensable
+lately: dernièrement
+annoying: énervant
+ordinary: ordinaire
+humor: humour
+way: façon
+secret: en secret
+the day before yesterday: avant-hier
+(to) hate: détester
+honeymoon: lune de miel
+not anymore: plus maintenant
+secret: secret
+relationship: relation
+herbal tea: tisane
+veal: veau
+turkey: dinde
+vinegar: vinaigre
+tablecloth: nappe
+sour: acide
+cherry: cerise
+snail: escargot
+cabbage: chou
+lettuce: laitue
+mayonnaise: mayonnaise
+bitter: amer
+vanilla: vanille
+sweets: sucrerie
+pastry: viennoiserie
+o'clock: heures
+tights: collants
+underwear: sous-vêtement
+style: style
+bra: soutien-gorge
+backwards: à l'envers
+hole: trou
+collar: col
+fur: fourrure
+dorado: doré
+silver: argenté
+sleeve: manche
+silk: soie
+polka dots: pois
+the ones: ceux
+the ones: celles
+loose: ample
+striped: rayure
+the one (fem): celle
+one size fits all: taille unique
+the one: celui
+fabric: tissu
+shake: serrer
+improvement: amélioration
+private: privé
+event: événement
+high: élevé
+statue: statue
+nightclub: boîte de nuit
+lady: dame
+exchanges: échanger
+elegant: élégant
+information: renseignement
+absolutely: tout à fait
+wrap: emballer
+soft: mou
+to go: à emporter
+altogether: en tout
+butcher: boucher
+kind: sorte
+at the same time: en même temps
+replace: remplacer
+put to sleep: endormir
+contact: contact
+unhelpful: inutile
+incapable: incapable
+expression: expression
+watch: surveiller
+trouble understanding: du mal à comprendre
+blog: blog
+paste: coller
+logical: logique
+to mail: poster
+generally: généralement
+like that: comme ça
+incorrect: incorrect
+at symbol: arobase
+username: nom d'utilisateur
+dot: point
+connection: connexion
+beat: taper
+worse: moins bien
+next day: lendemain
+flag: drapeau
+hidden: caché
+natural: naturel
+to slip: glisser
+terrace: terrasse
+cultural: culturel
+southwest: sud-ouest
+through: à travers
+southeast: sud-est
+impression: impression
+opposite: contraire
+a trip: un tour
+upside: haut
+customs: douane
+to declare: déclarer
+peace: paix
+northeast: nord-est
+northwest: nord-ouest
+state: état
+battery: pile
+sweatshirt: sweat
+kitten: chaton
+end: bout
+about ten: dizaine
+hair dryer: sèche-cheveux
+toothpaste: dentifrice
+combing: peigner
+tube: tube
+inside: à l'intérieur
+outside: à l'extérieur
+dry in: sécher avec
+sponge: éponge
+drying: sécher
+dust: poussière
+sink: évier
+the east of: de l'est
+got to know: découvert
+coast: côte
+enormous: énorme
+Do not sit: ne t'assieds pas
+it doesn't matter: peu importe
+tourism: tourisme
+center: centre
+attraction: attraction
+first time that: première fois que
+building: bâtiment
+visitor: visiteur
+sheet: drap
+air conditioning: climatisation
+favor: service
+broken: séparer
+... have been: ça fait
+sit down: asseoir
+brochure: brochure
+compare: comparer
+getting: quitter
+lively: animé
+ugly: laid
+to celebrate: fêter
+Jean: jean
+laughing: rigoler
+city hall: mairie
+uncomfortable: mal à l'aise
+be quiet: se taire
+undress: se déshabiller
+fireworks: feu d'artifice
+obvious: évident
+keep quiet: me taire
+goat: chèvre
+trendy: à la mode
+billion: milliard
+eleventh: onzième
+of music: musical
+fiction: fiction
+romantic: romantique
+drama: drame
+role: rôle
+action: action
+sounds: sembler
+stranger: inconnu
+live: en direct
+previous: précédent
+subject: sujet
+press: presse
+to ask: poser
+celebrity: célébrité
+corn: maïs
+bacon: lardons
+flavor: saveur
+spinach: épinards
+jar: pot
+flavored: goût
+tuna: thon
+freezer: congélateur
+smell: odeur
+freeze: congeler
+cucumber: concombre
+is mixing: mélange
+peanut: cacahuète
+homemade: fait maison
+broccoli: brocoli
+follow: suivre
+canned good: boîte de conserve
+dozen: douzaine
+ingredient: ingrédient
+salmon: saumon
+unfriendly: antipathique
+last time that: dernière fois que
+to divorce: divorcer
+intention: intention
+adorable: adorable
+old: âgé
+unique: unique
+perfectly: parfaitement
+missed: manquer
+kiss: bise
+show: se voir
+speak: se parler
+get along: s'entendre
+older: aîné
+standing: debout
+checkout: caisse
+groceries: épicerie
+fountain: fontaine
+back: en arrière
+pedestrian: piéton
+sidewalk: trottoir
+taking off: s'en aller
+truck: camion
+direction: direction
+sign: panneau
+intersection: carrefour
+next: suivant
+municipal: municipal
+take: emmener
+them there: les y
+him there: l'y
+racket: cirque
+to bring: amener
+done well: bien réussi
+anywhere: nulle part
+truth: vérité
+fan: supporter
+currently: actuellement
+move: déménager
+success: réussite
+embarrassed: gêner
+noticing: remarquer
+again: ne plus
+made: produit
+dropped: livraison
+tidied: rangé
+stylish: chic
+each: chacun
+old: ancien
+not: ne pas
+even more: encore plus
+job: emploi
+responsibility: responsabilité
+chin: menton
+deaf: sourd
+shave: raser
+weak: faible
+drinking: buvant
+diet: régime
+blind: aveugle
+flu: grippe
+emergency: urgence
+allergic: allergique
+disease: maladie
+forehead: front
+fever: fièvre
+throat: gorge
+pill: cachet
+cold: rhume
+trouble: du mal à
+hiding: cacher
+staying: habitant
+especially: surtout
+jungle: jungle
+die: mourir
+giraffe: girafe
+tiger: tigre
+to fight: battre
+on fire: en feu
+closing: ferme
+fly: mouche
+in my opinion: à mon avis
+runs: réduire
+to sort: trier
+to recycle: recycler
+waste: déchet
+Earth: terre
+environment: environnement
+pollution: pollution
+protect: protéger
+to respect: respecter
+suddenly: tout à coup
+that morning: ce matin-là
+think: pensé à
+ring: sonner
+that day: ce jour-là
+be necessary: falloir
+as usual: comme d'habitude
+that year: cette année-là
+as soon as: dès que
+at that moment: à ce moment-là
+The season when: la saison où
+rock climbing: escalade
+racket: raquette
+habit: l'habitude
+the day when: le jour où
+used to be in the habit: avais l'habitude
+at that time: à cette époque
+against: contre
+strong: costaud
+famous: connu
+attend: assister
+athlete: athlète
+the year when: l'année où
+train: entraîner
+aware of: compte de
+honest: honnête
+tissue: mouchoir
+everything: tout ce qui
+argue: disputer
+pair: couple
+both: toutes les deux
+trust: confiance
+at the moment: en ce moment
+to chat: discuter
+that: ce qui
+Tell: dis-lui
+impossible: impossible
+frog: grenouille
+forest: forêt
+bee: abeille
+sheet: feuille
+butterfly: papillon
+tan: bronzer
+sand: sable
+edge: bord
+grass: herbe
+star: étoile
+success: succès
+well done: bravo
+to organize: organiser
+penguin: pingouin
+original: original
+everything: tout ce
+comedy: comédie
+poem: poème
+Ask: demande-lui
+what: ce qu'
+what: ce que
+tell me: dis-moi
+express: exprimer
+novel: roman
+talent: talent
+stressful: stressant
+bookkeeper: comptable
+Scotland: Écosse
+agency: agence
+architect: architecte
+boss: patron
+brave: courageux
+actor: comédien
+experiment: expérience
+certainly: sûrement
+veterinarian: vétérinaire
+future: avenir
+teacher: professeure
+ambition: ambition
+lawyer: avocat
+baker: boulanger
+feeling: sentiment
+friendship: amitié
+generous: généreux
+refuse: refuser
+either: non plus
+selfish: égoïste
+hope: espoir
+mean: méchant
+please: faire plaisir
+not even: même pas
+stupid: stupide
+please: faire plaisir à
+completely: complètement
+jealous: jaloux
+forgive: pardonner
+unhappy: malheureux
+to please: plaisir
+brilliant: brillant
+paragraph: paragraphe
+result: résultat
+explanation: explication
+annoy: énerver
+intermediate: intermédiaire
+unacceptable: inacceptable
+attitude: attitude
+pronounce: prononcer
+stuff: affaires
+composition: rédaction
+proud: fier
+tiring: fatigant
+school: scolaire
+complicated: compliqué
+parents-in-law: beaux-parents
+them: nous en
+some: vous en
+joke: blague
+wow: oh là là
+them some: leur en
+father-in-law: beau-père
+lie: mensonge
+adopt: adopter
+him too many: lui en
+to knit: tricoter
+mother-in-law: belle-mère
+trumpet: trompette
+about one hundred: centaine
+some: m'en
+some: t'en
+about fifty: cinquantaine
+bouquet: bouquet
+sweetheart: chéri
+about twenty: vingtaine
+is announcing: annonce
+inspect: contrôler
+run: durer
+direct: direct
+delay: retarder
+departure: départ
+unpacking: défaire
+nothing: rien ne
+passenger: voyageur
+landing: atterrir
+fasten: attacher
+take off: décoller
+nobody: personne ne
+otherwise: sinon
+youth hostel: auberge de jeunesse
+full: complet
+stay: séjour
+record: enregistrer
+airline company: compagnie aérienne
+confirm: confirmer
+calm: calme
+like: plaisent
+creative: créatif
+Irish: irlandais
+email: courriel
+accent: accent
+orchestra: orchestre
+finally: enfin
+however: par contre
+like: plaire
+unpleasant: désagréable
+smiling: sourire
+tell: raconter
+exhibit: exposition
+bald: chauve
+photography: photographie
+therefore: donc
+guitarist: guitariste
+mustache: moustache
+terrific: formidable
+festival: festival
+pineapple: ananas
+just: juste
+lamb: agneau
+chili pepper: piment
+tart: tarte
+absolutely: absolument
+runs: renverser
+cold drink: boisson fraîche
+olive: olive
+fixed-price menu: menu
+frankly: franchement
+café: bistro
+disgusting: dégoûtant
+fizzy: pétillant
+typical: typiquement
+would be able to: pourrions
+salted cod: morue
+Portuguese: portugais
+pork: porc
+sauce: sauce
+vegetarian: végétarien
+beef: bœuf
+peppers: poivron
+starting: dès
+dear: amour
+knocked: frappé
+for a living: dans la vie
+to see again: revoir
+lovers: amoureux
+schedule: calendrier
+of … descent: d'origine
+heard-of: entendu parler
+Lebanese: libanais
+brown: châtain
+courtyard: cour
+red-headed: roux
+making: rendre
+future: futur
+visit: rendre visite
+instrument: instrument
+French-speaking: francophone
+Algerian: algérien
+education: culture
+rent: loyer
+families: de la famille
+piece of mail: courrier
+welcome: bienvenu
+asked: demandé
+tried: essayé
+screen: écran
+heart: cœur
+emergency room: urgences
+am helping: aide
+pull: tirer
+kill: tuer
+urgent: urgent
+stomach: ventre
+playing: en jouant
+broken: cassé
+playground: aire de jeux
+activity: activité
+danger: danger
+using: en utilisant
+burn: brûler
+injury: blessure
+machine: machine
+serious: grave
+bleeding: saigner
+answer: répondu
+blood: sang
+while: en faisant
+am calling: appelle
+hurt: faire mal
+danced: dansé
+expected: attendu
+field: champ
+deep: profond
+wide: large
+hip-hop: hip-hop
+breakdown: panne
+moon: lune
+petrol (UK): essence
+sheep: mouton
+drew: dessiné
+snowed: neigé
+rained: plu
+campground: camping
+desert: désert
+slowly: doucement
+traffic: circulation
+unsociable: sauvage
+hill: colline
+place: endroit
+bad: mauvaise
+broken: tourné
+region: région
+like: comme
+improve: améliorer
+detail: détail
+normal: normal
+to practice: répéter
+copied off: copié sur
+level: niveau
+starting: débutant
+capable: capable
+sciences: science
+put forward: avancer
+hard: dur
+ruler: règle
+complete: compléter
+circle: cercle
+eraser: gomme
+call back: rappeler
+pencil case: trousse
+copy: copier
+tenth grade: seconde
+print: imprimer
+turn off: éteindre
+click: cliquer
+hurts: fait mal
+hobby: loisir
+neck: cou
+competition: compétition
+muscular: musclé
+pain: douleur
+Malian: malien
+chess: échecs
+rulers: règles
+club: club
+Jamaican: jamaïcain
+interested: intéressé
+accompany: accompagner
+athletic: sportif
+volleyball: volleyball
+too bad: dommage
+best: le mieux
+jumping: sauter
+skate: patiner
+ocean: océan
+hockey: hockey
+Olympic: olympique
+nervous: nerveux
+(to) pray: prier
+champion: champion
+god: dieu
+made: gagné
+kick: coup de pied
+soccer: foot
+player: joueur
+piece: morceau
+to cut: couper
+negative: négatif
+review: commentaire
+Moroccan: marocain
+positive: positif
+dropped: fait tomber
+napkins: serviettes
+little: peu
+can: canette
+Senegalese: sénégalais
+and a half: et demi
+something else: autre chose
+half: moitié
+reserved: réservé
+mustard: moutarde
+seafood: fruits de mer
+shrimp: crevette
+Would you like: voudriez-vous
+difference: différence
+customary: habituel
+hamburger: hamburger
+aperitif: apéritif
+wanted: voulu
+continued: continué
+off-key: faux
+goal: but
+adventure: aventure
+crowd: foule
+learned: appris
+true: vrai
+article: article
+continue: continuer
+on the floor: par terre
+seriously: gravement
+to participate: participer
+protest: manifestation
+sharing: partager
+opinion: opinion
+finally: finalement
+worker: ouvrier
+vote: voter
+poster: affiche
+angry: en colère
+strike: grève
+change: changement
+protest: manifester
+to decide: décider
+condition: condition
+national: national
+fog: brouillard
+any: n'importe quelle
+golf course: golf
+spelled: s'écrit
+international: international
+race: course
+move: déplacer
+any: n'importe quel
+would it be possible: serait-il possible
+gentlemen: messieurs
+ladies: mesdames
+unbearable: insupportable
+yours: vôtres
+yours: vôtre
+retain: garder
+cloud: nuageux
+side: côté
+seat: siège
+ours: nôtres
+line: queue
+ours: nôtre
+gate: portail
+average: moyen
+walk: promenade
+should: devriez
+could: pourriez
+exactly: exactement
+would like: voudriez
+platform: quai
+delay: retard
+cancellation: annulation
+brushes: brosse
+sunscreen: crème solaire
+skin: peau
+as much: autant
+getting worse and worse: de pire en pire
+does hair: coiffe
+do your hair: coiffez
+hers: sien
+sandal: sandale
+could: pourrait
+would like: voudrait
+worse: pire
+worrying: inquiéter
+straight: raide
+ugly: moche
+not well: pas bien
+is taking care of: en occupe
+pale: pâle
+comb: peigne
+could: pourrais
+hairstylist: coiffeur
+makeup: maquillage
+shampoo: shampoing
+occupy: occuper
+soap: savon
+waking up: réveillant
+leaving: partant
+parking: garant
+area: zone
+mood: humeur
+fan: ventilateur
+nightmare: cauchemar
+inside: dedans
+looking for: cherchant
+lion: lion
+duck: canard
+light: lumière
+faucet: robinet
+walking: marchant
+coming out: sortant
+toothbrush: brosse à dents
+insect: insecte
+monkey: singe
+sink: lavabo
+screaming: crier
+opening: ouvrant
+coming: arrivant
+not yet: pas encore
+entering: entrant
+luggage: bagages
+rat: rat
+snake: serpent
+getting off: descendant
+bear: ours
+fitting room: cabine d'essayage
+looking: regardant
+going: allant
+terrible: terrible
+saw: vue
+selection: choix
+clearly: clairement
+scores: marque
+beast: bête
+advertisement: publicité
+wishes: désirer
+yours: tiennes
+sunglasses: lunettes de soleil
+mine: miennes
+bothering: déranger
+cool: cool
+mine: miens
+hold: tiens
+thinking: réfléchir
+pink: rose
+yours: tienne
+sale: promotion
+mine: mienne
+clear: clair
+giving: offre
+mine: mien
+yours: tien
+which ones: lesquelles
+whom: lesquels
+enough: suffisant
+assume: supposer
+yet: pourtant
+dry: sec
+kidney bowl: haricot
+grill: griller
+thought: cru
+piece of advice: conseil
+medium rare: à point
+cooked: cuit
+finger: doigt
+steak: steak
+rare: saignante
+mango: mangue
+camembert: camembert
+tip: pourboire
+try: goûter
+force: obliger
+pastry shop: pâtisserie
+as a starter: en entrée
+must not: devez pas
+accepting: accepter
+invitation: invitation
+thanking: remercier
+which one: laquelle
+which one: lequel
+must not: dois pas
+strong: fort
+for a long time: depuis longtemps
+cigarette: cigarette
+talked: en parle
+satisfied: satisfait
+comedian: humoriste
+mechanic: mécanicien
+fixed: certain
+afraid: peur de
+coffee machine: machine à café
+change: en changer
+middle school: collège
+to teach: enseigner
+rest: repos
+has: en a
+stay-at-home: au foyer
+there: s'y
+there: m'y
+professional: professionnel
+managing: gérant
+farmer: agriculteur
+dentist: dentiste
+since: depuis
+position: poste
+seriously: sérieusement
+career: carrière
+get used: habituer
+did not: ne se sont
+way too many: beaucoup trop
+scissors: ciseaux
+saw: se sont
+injure: blesser
+felt: nous nous sommes
+You have: vous vous êtes
+job: boulot
+rest: reposer
+dark: sombre
+marry: marier
+did not: ne t'es
+did not: ne me suis
+did not: ne s'est
+appropriately: correctement
+lie down: allonger
+has: s'est
+You: tu t'es
+businessman: homme d'affaires
+dinosaur: dinosaure
+dressed: habiller
+styled: coiffer
+uniform: uniforme
+middle: milieu
+injured: me suis
+am dreaming: rêve
+will know: sauront
+will have to: devront
+(they) will be able to: pourront
+will want: voudront
+fail: ratent
+cafeteria: cafétéria
+bac: bac
+correct: correct
+to have to: devoir
+by heart: par cœur
+will be able to: pourra
+getting: bien s'entendre
+will have to: devra
+must: faudra
+mistake: erreur
+example: exemple
+will have to: devras
+will know: sauras
+will be able to: pourras
+diploma: diplôme
+get to know: découvrir
+will be able to: pourrai
+will have to: devrai
+will know how: saurai
+passing: réussir
+studies: études
+write down: note
+text: texte
+skateboard: skateboard
+(to) describe: décrire
+hallway: couloir
+list: liste
+space: espace
+let: laisser
+are used to: servent à
+junk: bazar
+light: léger
+soft: doux
+to throw away: jeter
+pocket: poche
+especially: spécialement
+are: sont à
+found: trouvé
+gave: offert
+plastic: plastique
+mine: à moi
+trash: poubelle
+purple: violet
+useful: utile
+put: mis
+used: sert à
+receive: reçu
+package: paquet
+thing: truc
+heavy: lourd
+agriculture: agriculture
+crow(ing): chants
+elves: lutins
+will be: seront
+will have: auront
+will go: feront
+plain: nature
+will go: iront
+snowboarding: snowboard
+excursion: excursion
+kite: cerf-volant
+disappointing: décevoir
+marriage: mariage
+will be: sera
+will have: fera
+will go: ira
+will have: aura
+sail: naviguer
+storm: tempête
+sailboat: voilier
+will have: auras
+will be: feras
+will go: iras
+fishing: pêche
+will be: seras
+wet: mouiller
+will be: serai
+will be going: irai
+will have: ferai
+will have: aurai
+if: s'il
+wave: vague
+surf: surfer
+will put: mettront
+new: nouvelles
+will wait for: attendront
+will understand: comprendront
+will take: prendront
+will read: liront
+friendly: aimable
+instructions: instructions
+ambulance: ambulance
+injured: blessé
+will wait for: attendra
+will have: prendra
+medicine: médecine
+will study: apprendra
+will answer: répondra
+will read: lira
+patient: patient
+will wait: attendras
+will tell: diras
+will answer: répondras
+will have: prendras
+waiting room: salle d'attente
+appointment: rendez-vous
+nurse: infirmier
+will have: prendrai
+will drink: boirai
+will put: mettrai
+will wait for: attendrai
+medication: médicament
+doctor: docteur
+band-aid: pansement
+will go back: rentreront
+will visit: visiteront
+will dance: danseront
+will swim: nageront
+will eat: mangeront
+will invite: inviteront
+king: roi
+will leave: partira
+will arrive: arrivera
+will have: passera
+will sleep: dormira
+because: à cause
+trust: espérer
+pilot: pilote
+will swim: nageras
+will speak: parleras
+will eat: mangeras
+will spend: passeras
+will walk: marcheras
+will work: travailleras
+will leave: partiras
+will talk: parlerai
+will travel: voyagerai
+will sleep: dormirai
+will visit: visiterai
+will stay: resterai
+foreigner: étranger
+tourist: touristique
+a lot of people: beaucoup de monde
+there was: il y a eu
+salesperson: vendeur
+fall: tomber
+grow: pousser
+shown: montré
+is going: se passe
+helped: aidé
+guy: type
+knocked: frapper
+police officer: policier
+you: t'ai
+recently: récemment
+called: appelé
+fire: feu
+fireman: pompier
+help: au secours
+while: pendant que
+robber: voleur
+something: quelque chose de
+stolen: volé
+hear: entendu
+furious: furieux
+crying: pleurer
+am passing: passe
+pop: pop
+theater: théâtre
+drawing: dessin
+star: star
+dreaming: rêver
+wonderful: merveilleux
+is about: parle de
+thinks about: pense à
+is painting: peint
+battery: batterie
+to create: créer
+classical: classique
+arts: art
+interest: intéresser
+artist: artiste
+painting: peinture
+painter: peintre
+clown: clown
+musician: musicien
+bad: nul
+violin: violon
+horrible: horrible
+laughing: rire
+fear: peur
+play: pièce de théâtre
+ridiculous: ridicule
+show: spectacle
+scene: scène
+audience: public
+tiny: tout petit
+light: allumez
+put away: range
+turns on: allume
+roommate: colocataire
+armchair: fauteuil
+modern: moderne
+not her: ne la
+him: ne le
+am ordering: commande
+dresser: commode
+available: disponible
+practical: pratique
+drawer: tiroir
+is washing: lave
+brand new: toute neuve
+brand new: tout neuf
+lamp: lampe
+by myself: tout seul
+mugs: tasses
+by myself: toute seule
+housework: ménage
+light: allumer
+tidying: ranger
+rug: tapis
+cushion: coussin
+circle: rond
+fragile: fragile
+shutter: rideau
+square: carré
+happy: joyeux
+Santa Claus: père noël
+temple: temple
+crowded: bondé
+line: ligne
+mosque: mosquée
+synagogue: synagogue
+path: chemin
+noisy: bruyant
+dirty: sale
+go down: passe par
+don't park: ne te gare pas
+wherever: n'importe où
+at the corner of the street: au coin de la rue
+across: en face
+everywhere: partout
+park: gare-toi
+parking lot: parking
+park: garer
+let's hurry up: dépêchons-nous
+gets lost: se perd
+police: police
+hurry up: dépêche-toi
+hurry!: dépêchez-vous
+maybe: peut-être
+in the north: dans le nord
+license: permis
+in the south: dans le sud
+highway: autoroute
+traffic jam: embouteillage
+tire: pneu
+doesn't care: s'en fiche
+don't care: m'en fiche
+break: casser
+helmet: casque
+scooter: trottinette
+cartwheel: roue
+broken down: en panne
+engine: moteur
+motorcycle: moto
+garage: garage
+motorized scooter: scooter
+recovered: réparer
+fed up: marre
+gotten: pris
+certainly: certainement
+missed: rater
+run: couru
+hurry: dépêcher
+in a rush: pressé
+passenger: passager
+see: voie
+dead: mort
+dead: morte
+grandmothers: grands-mères
+dead: mortes
+deaths: morts
+grandfathers: grands-pères
+accident: accident
+been left: restés
+fortunately: heureusement
+stayed: restées
+stay: restée
+stay: resté
+single: célibataire
+island: île
+become: devenue
+become: devenu
+become: devenues
+become: devenus
+born: nés
+twenty-first: vingt et unième
+twentieth: vingtième
+born: nées
+worldwide: mondial
+war: guerre
+century: siècle
+born: née
+congratulations: félicitations
+to be born: naître
+memory: mémoire
+a party: une fête
+believing: croire
+stores: les magasins
+the movies: ciné
+rap: rap
+see: voient
+jazz: jazz
+to receive: recevoir
+glass: un verre
+party: soirée
+find: retrouver
+free: libre
+predict: prévoir
+should: on devrait
+one of these days: un de ces jours
+barbecue: barbecue
+planned: prévu
+only: seul
+are going to: on va
+exit: on sort
+canned: en boîte
+in fact: en fait
+restaurant: resto
+looks: ça a l'air
+cold: frais
+oven: four
+mix: mélanger
+whipped cream: chantilly
+crème fraîche: crème fraîche
+grapes: raisin
+recipe: recette
+flour: farine
+omelet: omelette
+aren't any: n'y en a pas
+curry: curry
+isn't any more left: n'y en a plus
+except: sauf
+spice: épice
+pepper: poivre
+fork: fourchette
+there: y en
+sushi: sushi
+bowl: bol
+dead: vide
+vegan: vegan
+chicken: poulet
+cure: saler
+alcohol: alcool
+currency exchange: bureau de change
+form: formulaire
+information: information
+to save up: économiser
+wasted: perdu
+win: gagner
+free: gratuit
+careful: attention
+counting: compte
+bank: bancaire
+credit card: carte de crédit
+ATM: distributeur
+getting: retirer
+PIN: code
+signing: signer
+map: carte
+contactless: sans contact
+change: monnaie
+cash: en espèces
+check: chèque
+rugby: rugby
+handball: handball
+gym: salle de sport
+running: course à pied
+started: commencé à
+for health: pour la santé
+knee: genou
+care: soin
+instead of: au lieu de
+stomach: estomac
+recommend: conseiller
+piece of candy: bonbon
+should: devrait
+to snack: grignoter
+instead: au lieu
+should: devrais
+start: commencer à
+yoga: yoga
+shame: honte
+would have to: faudrait
+don't feel like: pas envie
+shape: forme
+is she: a-t-elle
+is he: a-t-il
+is ashamed: a honte
+looked: l'air
+health: santé
+look: as l'air
+fit: en forme
+want: j'ai envie
+desire: envie
+habit: habitude
+theirs: le leur
+theirs: la leur
+them to them: les leur
+special: spécial
+fashion: mode
+application: application
+video game: jeu vidéo
+board game: jeu de société
+teenager: ado
+toy: jouet
+Web: web
+channel: chaîne
+report: reportage
+video: vidéo
+to download: télécharger
+is explaining: explique
+link: lien
+website: site
+I'm buying: j'achète
+weekly: hebdomadaire
+daily: quotidien
+show: émission
+magazine: magazine
+lend: prêter
+used to be: étaient
+were able to: pouvaient
+were making: faisaient
+to live: vivre
+got: avaient
+electrical: électrique
+device: appareil
+got: aviez
+used to be: étions
+washing machine: machine à laver
+were: étiez
+used to write: écrivions
+microwave: micro-ondes
+were: n'y avait
+was writing: écrivait
+caught: prenait
+electricity: électricité
+was working: travaillait
+time: époque
+biking: du vélo
+rarely: rarement
+can: pouvoir
+online: en ligne
+cell phones: portables
+easily: facilement
+digital: numérique
+I don't: pas moi
+hiking: randonnée
+to ski: skier
+was: y suis
+are: y sommes
+early: en avance
+tram: tram
+stadium: stade
+do you want: ça te dit
+not here: pas ici
+luck: chance
+let's go: on y va
+Do you want: ça vous dit
+to rent: louer
+not now: pas maintenant
+let's go: allons-y
+London: Londres
+there: n'y
+there: ils y
+abroad: à l'étranger
+helicopter: hélicoptère
+tourist: touriste
+there: j'y
+there: tu y
+mainland: continent
+wish: souhaiter
+cover up: couvrent
+work: couvrons
+are hosting: accueillent
+give/are giving: offrent
+cover up: couvrez
+game: jeu
+host/are hosting: accueillez
+are hosting: accueillons
+offer: offrons
+giving: offrez
+surprise: surprise
+offers: offres
+host: accueilles
+are covering up: couvres
+perfume: parfum
+Switzerland: suisse
+funny: drôle
+nephew: neveu
+to cover up: couvrir
+to host: accueillir
+to give: offrir
+cute: mignon
+sex: sexe
+birth: naissance
+have: en as
+try: essayer
+costume: costume
+raincoat: imperméable
+full: plein
+wool: laine
+scarf: écharpe
+sweater: pull
+sock: chaussette
+another: une autre
+another: un autre
+tie: cravate
+wonderful: magnifique
+necklace: collier
+buckle: boucle
+glove: gant
+seatbelt: ceinture
+cap: casquette
+purse: sac à main
+coins: pièces
+tickets: billets
+debit card: carte bancaire
+spent: dépenser
+wallet: portefeuille
+serve: servent
+client: client
+cancel: annuler
+reservation: réservation
+probably: probablement
+is used for: sert
+delicious: délicieux
+receptionist: réceptionniste
+around: vers
+lobby: hall
+serve: servir
+elevator: ascenseur
+blanket: couverture
+bar: bar
+so: alors
+on break: en pause
+member: membre
+introduce: présenter
+personal: personnel
+offices: bureaux
+employee: employé
+team: équipe
+printer: imprimante
+on the phone: au téléphone
+to explain: expliquer
+break: pause
+secretary: secrétaire
+keyboard: clavier
+write: lui écrire
+away: absent
+are giving: donnes
+donates: donne
+envelope: enveloppe
+principal: directeur
+document: document
+folder: dossier
+solution: solution
+mistletoe: gui
+fir tree: sapin
+decorations: décorations
+Internet: internet
+to order: commander
+concert: concert
+album: album
+almost: presque
+thin: fin
+amazing: incroyable
+episode: épisode
+popular: populaire
+started: commencé
+already: déjà
+twice: deux fois
+borrow: emprunter
+finish: terminer
+once: une fois
+loved: adoré
+asked: l'avez
+hated: détesté
+author: auteur
+time: fois
+have: l'as
+have: l'ai
+any: n'en
+there is no more: il n'y a plus de
+onion: oignon
+mushroom: champignon
+lemon: citron
+gram: gramme
+carrot: carotte
+toast: pain grillé
+kilogram: kilo
+slice: tranche
+pear: poire
+litre (UK): litre
+ham: jambon
+prepare: en prépare
+teaspoon: à café
+spoon: cuillère
+sausage: saucisse
+cream: crème
+mashed potatoes: purée
+eat some: en mange
+garlic: ail
+friend: ajouter
+oil: huile
+have: en ai
+resent: en veux
+buying: en achète
+sparkling lemonade: limonade
+melon: melon
+watermelon: pastèque
+champagne: champagne
+through: par
+scored: entrés
+starters: entrées
+umbrella: parapluie
+came: venu
+cleaning man: homme de ménage
+come: venues
+came: venus
+cleaning lady: femme de ménage
+visit: venue
+went up: montés
+went down: descendues
+climbed up: montées
+get down: descendus
+refrigerator: réfrigérateur
+ceiling: plafond
+upstairs: à l'étage
+went up: monté
+came down: descendue
+got off: descendu
+climbed: montée
+to climb up: monter
+roof: toit
+got out: sorti
+starter: entrée
+went in: entré
+in the rain: sous la pluie
+to enter: entrer
+went out: sortie
+spider: araignée
+cotton: coton
+sweatshirt: sweat-shirt
+leather: cuir
+bracelet: bracelet
+ring: bague
+dark blue: bleu foncé
+inexpensive: bon marché
+light blue: bleu clair
+perfect: parfait
+comfortable: confortable
+gained weight: grossi
+lost weight: maigri
+on sale: en promotion
+several: plusieurs
+swimsuit: maillot de bain
+shorts: short
+pair: paire
+to lose weight: maigrir
+filled up: rempli
+grew up: grandi
+to gain weight: grossir
+pajamas: pyjama
+to grow: grandir
+chosen: choisi
+to fill up: remplir
+done: fini
+height: taille
+wardrobe: armoire
+city center: centre-ville
+so much: tellement
+guide: guide
+capital: capitale
+monument: monument
+map: plan
+can you tell me: pouvez-vous me dire
+to go back: retourner
+would like: voudrions
+close: proche
+drops: perdre
+cathedral: cathédrale
+west: ouest
+on the avenue: sur l'avenue
+meter: mètre
+kilometer: kilomètre
+south: sud
+north: nord
+to cross: traverser
+neighborhood: quartier
+at the end of: au bout de
+tourist office: office de tourisme
+city hall: hôtel de ville
+post office: bureau de poste
+(he/she/it) stamps: timbre
+district: arrondissement
+parking spot: place
+souvenir: souviennent
+granddaughter: petite-fille
+grandma: mamie
+grandpa: papi
+grandson: petit-fils
+grandchildren: petits-enfants
+become: deviennent
+comes back: revient
+pieces of jewelry: bijoux
+piece of jewelry: bijou
+are coming back: reviennent
+becomes: devient
+come back: revenez
+become: devenons
+remember: souvenez
+come back: revenons
+become: devenez
+unfortunately: malheureusement
+aunt: tante
+wild: fou
+to become: devenir
+to come back: revenir
+right away: tout de suite
+teenage: adolescent
+uncle: oncle
+biology: biologie
+vocabulary: vocabulaire
+of class: de classe
+at the beginning: au début
+physics: physique
+chemistry: chimie
+bookshelf: étagère
+beginning: début
+history: histoire
+textbook: manuel
+semester: semestre
+workbook: cahier d'activités
+geography: géographie
+teacher: prof
+exercise: exercice
+grammar: grammaire
+math: mathématiques
+thanks: grâce
+These are my: ce sont mes
+it is the: ce sont les
+These are: ce sont des
+photographer: photographe
+lazy: paresseux
+engineer: ingénieur
+supervisor: responsable
+there are ... of them: ils sont
+pleasant: agréables
+they are: elles sont
+serious: sérieuses
+shy: timides
+It is an: c'est un
+This is my: c'est mon
+it's: c'est une
+It is: c'est le
+It's my: c'est ma
+pleasant: agréable
+shy: timide
+fantastic: fantastique
+Russian: russe
+Indian: indien
+serious: sérieux
+Tunisian: tunisien
+cook: cuisinier
+singer: chanteur
+opera house: opéra
+dancer: danseur
+employer: employeur
+cleaned: nettoyé
+worked: travaillé
+made: préparé
+studied: étudié
+washed: lavé
+calm: tranquille
+up to: jusqu'
+fished: pêché
+around: autour
+along: le long
+lake: lac
+river: fleuve
+sea: mer
+in the city: en ville
+while: pendant
+postcard: carte postale
+swam: nagé
+sent: envoyé
+in the countryside: à la campagne
+spent: passé
+with family: en famille
+day: journée
+excellent: excellent
+moment: moment
+cousin: cousin
+cartoon: dessin animé
+cooked: cuisiné
+invited: invité
+listened: écouté
+sang: chanté
+pasta: pâtes
+song: chanson
+someone: quelqu'un
+immediately: immédiatement
+quickly: rapidement
+is going down: descend
+get off: descendre
+stairs: escalier
+sell: vendez
+are selling: vendons
+weird: bizarre
+are selling: vendent
+nothing at all: rien du tout
+is selling: vend
+to sell: vendre
+am selling: vends
+sleep: dormons
+a long time: longtemps
+sleep: dorment
+train stations: gares
+airports: aéroports
+drive: conduisent
+hear: entendons
+tenth: dixième
+boring: ennuyeux
+above: au-dessus
+zero: zéro
+did not: ne faisait
+there were: il n'y avait
+level: degré
+pay: paye
+traveled: voyagé
+for example: par exemple
+downstairs: en bas
+upstairs: en haut
+possible: possible
+left: partie
+T-shirts: t-shirts
+didn't: n'ai pas
+brought: apporté
+forgot: oublié
+didn't: n'as pas
+show: montre
+hear: entendent
+is sleeping: dort
+can hear: entendez
+are answering: répondez
+is hearing: entend
+reply to: répondent
+draw: dessine
+(we) conduct/are conducting: conduisons
+see each other: on se voit
+drive: conduit
+eat: on mange
+swim: nages
+pool: piscine
+to forget: oublier
+call: appelles
+are answering: répondons
+soon: bientôt
+call: appelez
+to clean: nettoyer
+calling: t'appelle
+floor: sol
+cleans: nettoie
+clean: nettoyons
+are cleaning: nettoies
+help: aides
+help: aidez
+under: sous
+couch: canapé
+club: boîte
+there was: il y avait
+people: gens
+made: faisait
+happy: heureux
+played: joué
+looked: regardé
+music: de la musique
+eaten: mangé
+doll: poupée
+ball: ballon
+went: allés
+arrivals: arrivés
+arrivals: arrivées
+gone: allées
+arrival: arrivée
+path: allée
+last: dernier
+Christmas: noël
+arrived: arrivé
+yesterday: hier
+traveled: allé
+Easter: Pâques
+public holiday: jour férié
+remember: souviens
+remember: souvenons
+show: montrer
+was: avait
+wanted: voulais
+to remember: souvenir
+wanted: voulait
+beard: barbe
+was: c'était
+was having: avais
+used to like: aimais
+One thousand nine hundred: mille neuf cent
+two thousand: deux mille
+used to work: travaillais
+studied: étudiais
+life: vie
+different: différent
+used to be: était
+years: années
+was living: habitais
+were: étais
+poor: pauvre
+nice to meet you: enchantée
+start: commençons
+minute: minute
+am starting: commence
+on time: à l'heure
+is answering: répond
+writing: écrivez
+to start: commencer
+are leaving: pars
+leave: partent
+waits: attend
+to write: écrire
+'re sending: envoyez
+conversation: conversation
+send: envoyons
+to give: donner
+am waiting for: attends
+answer: réponds
+am sending: envoie
+answer: réponse
+thing: chose
+company: entreprise
+to answer: répondre
+come from: viens de
+to ask for: demander
+have just: venons de
+send out: envoyer
+email: e-mails
+to arrive: arriver
+other ones: autres
+another: autre
+only: seulement
+ninth: neuvième
+paid: payé
+eighth: huitième
+cent: centime
+apartments: appartements
+thousand: mille
+hundred: cents
+hundred thousand: cent mille
+dollar: dollar
+million: million
+tables: tableaux
+first: premier
+seventh: septième
+sixth: sixième
+wall: mur
+money: argent
+fifth: cinquième
+to pay: payer
+lived: habité
+liked: aimé
+fourth: quatrième
+bought: acheté
+visited: visité
+ground floor: rez-de-chaussée
+houses: maisons
+floor: étage
+run: courent
+run: courons
+to run: courir
+tonight: ce soir
+run: courez
+believes: croit
+everything is going well: tout va bien
+worried: inquiet
+sore: mal à
+back: dos
+body: corps
+drink: buvez
+... hurts: mal au
+head: tête
+think: crois
+to stop: arrêter
+hospitals: hôpitaux
+better: mieux
+feel: sentir
+get up: lève-toi
+sit down: assieds-toi
+you must not: il ne faut pas
+sit: asseyez-vous
+sit: asseyez
+to smoke: fumer
+it is necessary to: il faut
+are leaving: partez
+think of: penser à
+camera: appareil photo
+to change: changer
+African: africain
+second: second
+leave for: partons
+of course: bien sûr
+here is: voilà
+planes: avions
+ticket: ticket
+European: européen
+China: Chine
+castles: châteaux
+hotels: hôtels
+taxis: taxis
+to cost: coûter
+suitcases: valises
+site: lieux
+departs: part
+in a month: dans un mois
+to know: connaître
+whole: entier
+world: monde
+in two days: dans deux jours
+to check: vérifier
+passports: passeports
+to want: vouloir
+excuse me: pardon
+look up: chercher
+information: informations
+wait for: attendent
+until: jusqu'à
+are leaving: sortent
+to wash: laver
+first: d'abord
+puts on: met
+go out: sortons
+next: ensuite
+closing: fermer
+wait for: attendons
+wait for: attendez
+put: mettez
+put: mettons
+to drive: conduire
+drive: conduisez
+are putting: mettent
+afternoons: après-midis
+drive: conduis
+gets out: sort
+to put on: mettre
+go out: sortez
+are putting: mets
+this: ceci
+that: cela
+any: aucune
+knives: couteaux
+any: aucun
+there are no: il n'y a
+knife: couteau
+plate: assiette
+to like: aimer
+with: à la
+drink: buvons
+cake: gâteaux
+bakeries: boulangeries
+all: toutes
+chocolate: chocolats
+all: tous
+are eating: mangez
+cold: froide
+to eat: à manger
+drink: boivent
+all: toute
+without: sans
+drink: à boire
+by train: en train
+to cook: cuisiner
+(-ing): en train de
+drink: boisson
+soda: soda
+hot: chaude
+means: veut dire
+to love: adorer
+to use: utiliser
+sentence: phrase
+notebook: cahier
+love: adores
+pencil: crayon
+tell: dites
+speak: disons
+tell: disent
+homework: devoirs
+writing: écrivons
+language: langue
+again: encore
+find: trouvent
+paper: papier
+to help: aider
+a few: quelques
+am telling: dis
+said: dit
+page: page
+note: mot
+to say: dire
+high school: lycée
+classroom: classe
+presents: cadeaux
+to look: regarder
+hundred: cent
+look like: ressembler
+ninety: quatre-vingt-dix
+eighty: quatre-vingt
+to open: ouvrir
+eighty: quatre-vingts
+are opening: ouvrez
+present: cadeau
+little brother: petit frère
+seventy: soixante-dix
+little sister: petite sœur
+a day: et un
+big sister: grande sœur
+sixty: soixante
+big brother: grand frère
+your name is: t'appelles
+age: âge
+grandparents: grands-parents
+fifty: cinquante
+owls: chouettes
+to hear: entendre
+parks: parcs
+weekends: week-ends
+sing: chantent
+flying: voler
+boats: bateaux
+to fish: pêcher
+birds: oiseaux
+boat: bateau
+bird: oiseau
+river: rivière
+horses: chevaux
+can hear: entends
+countryside: campagne
+noise: bruit
+gardens: jardins
+grass: pelouse
+to catch: attraper
+the most: les plus
+rabbit: lapin
+elephant: éléphant
+fast: rapide
+the most: le plus
+the most: la plus
+mouse: souris
+fat: gros
+village: village
+pig: cochon
+Germany: Allemagne
+know: savons
+Australia: Australie
+know: savent
+know: savez
+like: aime bien
+knows: sait
+stay: restez
+to meet: rencontrer
+to call: appeler
+birthday: anniversaire
+boyfriend: petit ami
+we are: on est
+girlfriend: petite amie
+see: voit
+are seeing: voyons
+are seeing: voyez
+are listening to: écoutez
+know: connaissent
+kind: genre
+safe: sûr
+band: groupe
+better: meilleur
+knows: connaît
+wrong: tort
+reason: raison
+sorry: désolé
+know: connaissez
+painting: tableau
+know: connaissons
+not at all: pas du tout
+Chinese: chinois
+German: allemand
+TV series: série
+okay: d'accord
+think: pense que
+great: super
+bad: mauvais
+thinking: penser
+know: connais
+actress: actrice
+movie: film
+favorite: préféré
+actor: acteur
+everyone: tout le monde
+to invite: inviter
+picnic: pique-nique
+festival: fête
+to bring: apporter
+to know: savoir
+know: sais
+to paint: peindre
+would like: aimerais
+guitar: guitare
+piano: piano
+can: peuvent
+are seeing: vois
+can: pouvons
+bookstore: librairie
+in use: occupé
+not ... anything: rien
+never: jamais
+library: bibliothèque
+friend: copain
+girlfriend: copine
+basketball: basket
+to play: jouer
+tennis: tennis
+soccer: football
+football: football américain
+match: match
+have to: devons
+have to: doivent
+raise: lever
+adult: adulte
+can: peut
+to prepare: préparer
+a quarter to: moins le quart
+needs to: doit
+walk: promener
+on the weekends: le week-end
+before: avant de
+do not: ne se
+do not: ne te
+not: ne me
+not: ne vous
+do not: ne nous
+what: qu'est-ce qu'
+read: lisent
+is: font
+read: lisons
+raise: levons
+walk: promenons
+on Fridays: le vendredi
+on Mondays: le lundi
+what: qu'est-ce que
+raises: lève
+take for a walk: promène
+what a: quelles
+on foot: à pied
+Where is it that: où est-ce que
+how: comment est-ce que
+famous: célèbre
+stay: restes
+stay: reste
+are turning: tournez
+do not go: n'allez pas
+stop: arrêt
+are going to: tu vas
+straight: tout droit
+then: puis
+avenue: avenue
+between: entre
+am turning: tourne
+are turning: tournes
+walk: tu marches
+next to: à côté
+brown: marron
+same: même
+same: mêmes
+boot: botte
+new: nouvel
+those (fem): celles-là
+these: celles-ci
+yellow: jaune
+wearing: porter
+that one: celle-là
+glasses: lunettes
+this one: celle-ci
+handsome: bel
+new: nouvelle
+shirt: chemise
+these: ceux-ci
+those ones: ceux-là
+coats: manteaux
+hats: chapeaux
+handsome: beaux
+new: nouveaux
+water: eaux
+coat: manteau
+this one: celui-ci
+new: nouveau
+hat: chapeau
+that one: celui-là
+black: noir
+over there: là-bas
+let's do: faisons
+soup: soupe
+crepe: crêpe
+forty: quarante
+about: environ
+thirty: trente
+twenty: vingt
+cookie: biscuit
+no meat: pas de viande
+rice: riz
+meat: viande
+food: nourriture
+ice cream: glace
+let's buy: achetons
+no fish: pas de poisson
+potatoes: pommes de terre
+(let us) prefer: préférons
+fish: poisson
+market: marché
+eggs: œufs
+the groceries: les courses
+prefer: préférer
+tomato: tomate
+buy: acheter
+less: moins de
+smells: sent
+more: plus de
+smell: sentent
+not enough: pas assez
+sleep: dormez
+because: parce qu'
+smell: sentez
+feel: sentons
+because: parce que
+are they: sont-elles
+sad: triste
+stressed: stressé
+sick: malade
+tired: fatigué
+to sleep: dormir
+hunger: faim
+thirst: soif
+enough: assez
+sleep: sommeil
+to have: avoir
+bad: mal
+really: vraiment
+direction: sens
+run: court
+color: couleur
+leg: jambe
+long: long
+nice: sympa
+nose: nez
+eye: œil
+eyes: yeux
+covers: bouche
+face: visage
+arm: bras
+foot: pied
+right: droit
+ear: oreille
+only: qu'
+dad: papa
+mom: maman
+fewer: moins
+rich: riche
+thin: mince
+old: vieux
+old: vieil
+sky: ciel
+spring: printemps
+December: décembre
+gray: gris
+season: saison
+blue: bleu
+November: novembre
+to rain: pleuvoir
+to snow: neiger
+to do: faire
+rain: pluie
+all day: toute la journée
+but: mais
+snow: neige
+rains: pleut
+sun: soleil
+wind: vent
+cloud: nuage
+what weather: quel temps
+October: octobre
+outside: dehors
+does: fait-il
+fall: automne
+August: août
+cold: froid
+hot: chaud
+is: fait
+beautiful: beau
+in general: en général
+quarter: quart
+watch: veillent
+awake: réveillent
+tooth: dent
+put ... to bed: coucher
+fast: vite
+make: préparez
+hair: cheveux
+brushing: brosser
+look at: regardons
+thirty: demie
+wake up: réveiller
+mirror: miroir
+are you doing: faites-vous
+are you doing: fais-tu
+in the evening: le soir
+that: que
+usually: d'habitude
+sports: sport
+in the morning: le matin
+am making: fais
+always: toujours
+made: faites
+bath: bain
+animals: animaux
+here is: voici
+great: géniaux
+July: juillet
+newspapers: journaux
+prohibited: interdit
+front desk: réception
+animal: animal
+Wi-Fi: wi-fi
+brilliant: génial
+non-smoking: non-fumeur
+password: mot de passe
+understood: compris
+May: mai
+June: juin
+shower: douche
+own: propre
+simple: simple
+double: double
+how many: combien de
+nights: nuits
+TV: télévision
+address: adresse
+to book: réserver
+key: clé
+napkin: serviette
+pretty: joli
+choose: choisissent
+their: leurs
+finishes: finit
+their: leur
+chooses: choisit
+finish: finissent
+idea: idée
+finish: finissez
+finish: finissons
+choose: choisissons
+nineteen: dix-neuf
+choose: choisissez
+April: avril
+date: date
+need: besoin de
+choose: choisis
+finish: finis
+schedule: horaire
+eighteen: dix-huit
+to choose: choisir
+cast: jet
+need: as besoin
+to finish: finir
+project: projet
+chef: chef
+March: mars
+sixteen: seize
+need: besoin
+seventeen: dix-sept
+Réunion (island): réunion
+room: salle
+slowly: lentement
+understand: comprenons
+are learning: apprenons
+backpack: sac à dos
+classroom: salle de classe
+more: plus
+includes: comprend
+are learning: apprennent
+understand: comprennent
+is: est-ce qu'
+learns: apprend
+student: élève
+everything: tout
+understand: comprenez
+do: est-ce que
+learn: apprenez
+September: septembre
+are studying: apprends
+understand: comprends
+material: matière
+dictionary: dictionnaire
+quiz: examen
+to learn: apprendre
+to understand: comprendre
+class: cours
+lesson: leçon
+easy: facile
+difficult: difficile
+year: année
+this: cet
+been: été
+to scuba dive: faire de la plongée
+January: janvier
+to ski: faire du ski
+to take a trip: faire un voyage
+February: février
+mountain: montagne
+winter: hiver
+time: temps
+on vacation: en vacances
+month: mois
+him: lui
+to spend: passer
+to stay: rester
+picture: photo
+to leave: partir
+tomorrow: demain
+to see: voir
+weekend: week-end
+next: prochain
+does not like: n'aime pas
+cereal: céréales
+love: adorent
+getting: prendre
+yogurt: yaourt
+strawberry: fraise
+coffee with milk: café au lait
+mineral: minérale
+is drinking: boit
+orange juice: jus d'orange
+water: l'eau
+jam: confiture
+some brioche: de la brioche
+jam: de la confiture
+some sugar: du sucre
+hate: déteste
+prefer: préfères
+brioche: brioche
+bread: du pain
+butter: beurre
+honey: miel
+honey: du miel
+prefer: préfère
+drink: bois
+hate: détestes
+coffee: du café
+(some) tea: du thé
+at breakfast: au petit déjeuner
+loves: adore
+milk: du lait
+swim: nageons
+draw: dessinez
+to swim: nager
+(you) take shape/are taking shape: dessines
+swim: nagent
+swim: nage
+to draw: dessiner
+to study: étudier
+study: étudions
+to listen to: écouter
+to sing: chanter
+sing: chantes
+am singing: chante
+are listening to: écoutes
+are visiting: visitez
+visit: visitent
+am dancing: danse
+to dance: danser
+(you) dance/are dancing: danses
+are walking: marches
+work: marche
+wait for: attendre
+late: en retard
+can you: pouvez-vous
+luggage: bagage
+theft: vol
+question: question
+are you: venez-vous
+Africa: Afrique
+nation: nation
+what an: quelle
+destination: destination
+nationality: nationalité
+profession: profession
+Senegal: Sénégal
+are you traveling: voyagez-vous
+come: venez
+which: quel
+first name: prénom
+name: nom
+to eat: manger
+do you want: voulez-vous
+know: je ne sais pas
+to drink: boire
+something: quelque chose
+travel: voyagez
+can: pouvez
+are you going: allez-vous
+ma'am: madame
+excuse me: excusez-moi
+miss: mademoiselle
+sir: monsieur
+you're welcome: de rien
+bathroom: salle de bain
+too much: trop de
+too many: trop
+salt: sel
+in the afternoon: de l'après-midi
+closet: placard
+please: s'il te plaît
+a little: un peu de
+sugar: sucre
+a lot of: beaucoup de
+milk: lait
+like: plaît
+fridge: frigo
+at night: du soir
+he's: il est
+have to: devez
+morning: du matin
+clock: horloge
+go back: rentre
+early: tôt
+late: tard
+go back: rentrer
+time: heure
+get out: sors
+to go out: sortir
+to X's place: chez
+noon: midi
+before: avant
+midnight: minuit
+room: chambre
+do you live: habitez-vous
+do you have: avez-vous
+with who: avec qui
+problem: problème
+are you having: prenez-vous
+do you take: prends-tu
+do you study: étudiez-vous
+do you work: travailles-tu
+week: semaine
+are you going: vas-tu
+are they: sont-ils
+is he: est-il
+Belgian: belge
+why: pourquoi
+are you fond of: aimes-tu
+do they work: travaillent-elles
+do you speak/talk: parlez-vous
+is it: est-elle
+now: maintenant
+are you: es-tu
+are you: êtes-vous
+Quebecois: québécois
+want: voulez
+every day: tous les jours
+are getting: prenez
+buy: achetez
+baguette: baguette
+read: lisez
+our: nos
+have: avez
+your: vos
+are going: allez
+friend: amie
+our: notre
+groom: marié
+friend: ami
+your: votre
+got married: mariée
+live: habitez
+together: ensemble
+love (person/pet): aimez
+married: mariés
+study: étudiez
+you're: vous êtes
+speak: parlez
+cook: cuisinez
+work: travaillez
+dance: dansez
+are: êtes
+you: vous
+third: troisième
+visiting: visiter
+place: lieu
+dangerous: dangereux
+to find: trouver
+second: deuxième
+near: près
+far: loin
+bridge: pont
+road: route
+close to the: près du
+close to: près de
+behind: derrière
+to live: habiter
+piece of furniture: meuble
+interesting: intéressant
+apartment building: immeuble
+left: gauche
+premiere: première
+to turn: tourner
+to the left: à gauche
+in front of: devant
+to the right: à droite
+work: marcher
+have to: dois
+to go: aller
+street: rue
+important: important
+speak: parler
+fourteen: quatorze
+fifteen: quinze
+do they have: ont-ils
+am able to: peux
+dark: brun
+thirteen: treize
+how old: quel âge
+twelve: douze
+eleven: onze
+that: qui
+do you have: as-tu
+come: venons
+when: quand
+talk: parlons
+isn't: n'est
+blond: blond
+young: jeune
+what: quoi
+come: viennent
+not: pas
+Italian: italien
+is coming: vient
+come: viens
+Japanese: japonais
+hand: main
+Canadian: canadien
+red: rouges
+red: rouge
+ten: dix
+buy: achètes
+T-shirt: t-shirt
+jacket: veste
+cost: coûtent
+nine: neuf
+am buying: achète
+skirt: jupe
+how much: combien
+eight: huit
+fare: prix
+costs: coûte
+seven: sept
+expensive: chers
+expensive: chères
+euro: euro
+shoe: chaussure
+bag: sac
+clothes: vêtements
+six: six
+expensive: cher
+expensive: chère
+dress: robe
+pants: pantalon
+sometimes: parfois
+Saturday: samedi
+radio: radio
+Sunday: dimanche
+listens to: écoute
+listen to: écoutons
+Thursday: jeudi
+sleeping: dors
+Friday: vendredi
+reads: lit
+night: nuit
+Wednesday: mercredi
+afternoon: après-midi
+am reading: lis
+often: souvent
+newspaper: journal
+Tuesday: mardi
+cheek: joue
+after: après
+are playing: jouent
+night: soir
+child: enfant
+Monday: lundi
+each: chaque
+are watching: regardent
+am watching: regarde
+TV: télé
+day: jour
+kitchen: cuisine
+cook: cuisines
+well: bonnes
+well: bons
+dish: plat
+vegetable: légume
+good: bon
+make: préparent
+well: bonne
+fruit: fruit
+apple: pomme
+banana: banane
+meal: repas
+these: ces
+ready: prêt
+make: prépares
+is lending: prête
+is making: prépare
+cake: gâteau
+this: cette
+make: préparons
+to have lunch: déjeuner
+dinner: dîner
+are getting: prennent
+let's take: prenons
+breakfast: petit déjeuner
+egg: œuf
+morning: matin
+to come: venir
+is using: utilise
+use: utilises
+to work: travailler
+number: numéro
+phone: téléphone
+are writing: écrivent
+written: écrit
+email: e-mail
+cell phone: portable
+message: message
+on: sur
+written: écris
+letter: lettre
+pen: stylo
+computer: ordinateur
+leaves: lègue
+office: bureau
+work: travaillons
+colleague: collègue
+factory: usine
+doctor: médecin
+driver: chauffeur
+occupation: métier
+there are: il y a trois
+any: des
+are opening: ouvrent
+flower: fleur
+white: blancs
+(we) open/are opening: ouvrons
+blank: blanches
+coin: pièce
+chair: chaise
+salon: salon
+(you) initiate/are initiating: ouvres
+blank: blanche
+to be: être
+white: blanc
+is opening: ouvre
+window: fenêtre
+has on: porte
+kind: gentilles
+kind: gentille
+pounds: livres
+cow: vache
+kind: gentil
+kind: gentils
+there is: il y a
+neighbor: voisin
 tree: arbre
+want: veulent
+castle: château
+bathroom: aux toilettes
+church: église
+travel: voyageons
+travel: voyagent
+to the: aux
+beach: plage
+tours: visites
+traveling: voyager
+museum: musée
+visit: visitons
+travel: voyages
+vacation: vacances
+are going to: vont
+am traveling: voyage
+am visiting: visite
+Mexico: Mexique
+country: pays
+Japan: Japon
+Brazil: Brésil
+five: cinq
+today: aujourd'hui
+closed: fermé
+four: quatre
+city: ville
+bike: vélo
+plants: plante
+green: vert
+open: ouvert
+hospital: hôpital
+pharmacy: pharmacie
+station: station
+supermarket: supermarché
+short: petites
+little: petite
+universities: universités
+great: grandes
+large: grande
+schools: écoles
+big: grand
+small: petit
+little: petits
+tall: grands
+store: magasin
+check: addition
+cheese: fromage
+dessert: dessert
+salad: salade
+bread: pain
+is making: rend
+are having: prend
+bottle: bouteille
+sandwich: sandwich
+water: d'eau
+drink: verre
+wine: vin
+beer: bière
+cup: tasse
+too: aussi
+juice: jus
+would like: voudrais
+coffee shop: café
+server: serveur
+waitresses: serveuses
+tea: thé
+restroom: toilettes
+for: pour
+restaurants: restaurants
+table: table
+no one: personne
+funny: amusantes
+smart: intelligents
+happy: contentes
+intelligent: intelligentes
+funny: amusants
+pleased with: contents
+American: américains
+French: françaises
+English: anglaises
+Mexican: mexicaines
+Mexican: mexicains
+American: américaines
+funny: amusant
+intelligent: intelligente
+happy: contente
+funny: amusante
+happy: content
+intelligent: intelligent
+her: ses
+they are: ce sont
+baby: bébé
+like: aiment
+your: tes
+parents: parents
+sisters: sœurs
+brothers: frères
+cars: voitures
+pizzas: pizzas
+dogs: chiens
+journalists: journalistes
+get: ont
+trains: trains
+students: étudiants
+study: étudient
+live: habitent
+professors: professeurs
+students: étudiantes
+work: travaillent
+men: hommes
+oranges: oranges
+are eating: mangent
+are talking: parlent
+women: femmes
+hers: elles
+feel: sont
+they: ils
+your: les
+boys: garçons
+cats: chats
+girls: filles
+two: deux
+croissants: croissants
+three: trois
+movie theater: cinéma
+bus: bus
+like: aimes
+zoo: zoo
+park: parc
+work: travail
+bakery: boulangerie
+subway: métro
+are: sommes
+are going to: allons
+bank: banque
+school: école
+want: veux
+themselves: eux
+book: livre
+music: musique
+chocolate: chocolat
+loves: aime
+like: aimons
+to read: lire
+live: habitons
+eat: mangeons
+get: avons
+we: nous
+want: voulons
+garden: jardin
+apartment: appartement
+house: maison
+in: dans
+wants: veut
+grandmother: grand-mère
+grandfather: grand-père
+owl: chouette
+pet: animal de compagnie
+husband: mari
+son: fils
+sister: sœur
+mother: mère
+family: famille
+her: son
+brother: frère
+father: père
+age: ère
+your: ton
+passport: passeport
+plane ticket: billet d'avion
+ticket: billet
+I'm: j'ai
+taxi: taxi
+please: s'il vous plaît
+suitcase: valise
+am getting: prends
+car: voiture
+train: train
+hotel: hôtel
+airport: aéroport
+going: vas
+plane: avion
+restaurant: restaurant
+am going: vais
+train station: gare
+university: université
+teacher: professeur
+Italy: Italie
+journalist: journaliste
+study: étudies
+am going: aille
+no: non
+Spain: Espagne
+England: Angleterre
+with: avec
+work: travailles
+student: étudiant
+here: ici
+student: étudiante
+am working: travaille
+live: habites
+live: habite
+is studying: étudie
+Die: die
+American: américaine
+Mexican: mexicain
+Mexican: mexicaine
+American: américain
+Spanish: espagnol
+Spanish: espagnole
+speak: parles
+what is your name: comment tu t'appelles
+excuse me: excuse-moi
+French: française
+English: anglaise
+is named: s'appelle
+she: elle
+uncomfortable: aise
+English: anglais
+talking: parle
+call myself: m'appelle
+French: français
+is: est
+good night: bonne nuit
+see you tomorrow: à demain
+have a good evening: bonne soirée
+water: eau
+a lot: beaucoup
+have a good day: bonne journée
+nice to meet you: enchanté
+goodbye: au revoir
+see you soon: à bientôt
+welcome: bienvenue
+you: toi
+hi: salut
+good evening: bonsoir
+very: très
+thank you: merci
+well: bien
+hello: bonjour
+how: comment
+yes: oui
+how are you?: ça va
+pizza: pizza
+croissant: croissant
+are eating: manges
+orange: orange
+eats: mange
+horse: cheval
+dog: chien
+it's: c'est
+girl: fille
+am: suis
+woman: femme
+an: une
+boy: garçon
+man: homme
+cat: chat
